@@ -1,9 +1,8 @@
-# blocx
+# BloCX
 
-BLoC pattern implementation.
+BLoC pattern implementation which simplifies process of writing BLoC
+and minimizes boilerplate which is needed to be written with traditional BLoC pattern implementation.
 
-## Getting Started
 
-For help getting started with Flutter, view our online [documentation](https://flutter.io/).
 
-For help on editing package code, view the [documentation](https://flutter.io/developing-packages/).
+
