@@ -1,6 +1,9 @@
 import 'package:blocx/src/middleware.dart';
 import 'package:rxdart/rxdart.dart';
 
+/*
+ Base class which is extended while implementing new BLoC.
+ */
 abstract class Bloc<A, S> {
   Middleware _middleware;
 
