@@ -1,5 +1,5 @@
 name: blocx
-description: BLoC pattern implementation.
+description: BLoC pattern implementation which help with reducing boilerplate which comes with writing traditional BLoC pattern.
 version: 0.1.0
 author: Haris Kovačević <programmerguy92@gmail.com>
 homepage: https://github.com/harisk92/blocx/
